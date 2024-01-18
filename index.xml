@@ -28,7 +28,9 @@
         
         
         
-          def mano_funkcija(): print(&amp;#34;Sveikas, pasauli!&amp;#34;) Tai yra mano pirmasis tinklalapio įrašas. Labai smagu pradėti rašyti! ![Success](../img/success.jpg) 
+          
+Tai yra mano pirmasis tinklalapio įrašas. Labai smagu pradėti rašyti!
+def mano_funkcija(): print(&amp;#34;Sveikas, pasauli!&amp;#34;) 
           
         
         </description>
